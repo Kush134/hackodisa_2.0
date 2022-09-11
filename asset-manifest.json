@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hackodisa_2.0/static/css/main.bf9f6498.chunk.css",
+    "main.js": "/hackodisa_2.0/static/js/main.ef2589ae.chunk.js",
+    "main.js.map": "/hackodisa_2.0/static/js/main.ef2589ae.chunk.js.map",
+    "runtime-main.js": "/hackodisa_2.0/static/js/runtime-main.7ca87bd9.js",
+    "runtime-main.js.map": "/hackodisa_2.0/static/js/runtime-main.7ca87bd9.js.map",
+    "static/js/2.0aac715f.chunk.js": "/hackodisa_2.0/static/js/2.0aac715f.chunk.js",
+    "static/js/2.0aac715f.chunk.js.map": "/hackodisa_2.0/static/js/2.0aac715f.chunk.js.map",
+    "static/js/3.54a3b83f.chunk.js": "/hackodisa_2.0/static/js/3.54a3b83f.chunk.js",
+    "static/js/3.54a3b83f.chunk.js.map": "/hackodisa_2.0/static/js/3.54a3b83f.chunk.js.map",
+    "index.html": "/hackodisa_2.0/index.html",
+    "static/css/main.bf9f6498.chunk.css.map": "/hackodisa_2.0/static/css/main.bf9f6498.chunk.css.map",
+    "static/js/2.0aac715f.chunk.js.LICENSE.txt": "/hackodisa_2.0/static/js/2.0aac715f.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/hackodisa_2.0/static/media/background.5fd7ad25.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ca87bd9.js",
+    "static/js/2.0aac715f.chunk.js",
+    "static/css/main.bf9f6498.chunk.css",
+    "static/js/main.ef2589ae.chunk.js"
+  ]
+}
